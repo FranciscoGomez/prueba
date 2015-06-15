@@ -1,2 +1,7 @@
 Texto de prueba
 Este otro texto se ha añadido.
+Este es otro texto.
+
+Texto de prueba
+Este otro texto se ha añadido.
+Este es otro texto.
